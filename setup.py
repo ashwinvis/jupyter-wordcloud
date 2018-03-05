@@ -16,7 +16,7 @@ setup(
     long_description=long_description,
     version = "0.0.0",
     install_requires=[
-        "wordcloud", "nbconvert", "matplotlib"],
+        "wordcloud", "nbconvert", "matplotlib", "numpy"],
     entry_points={
         'console_scripts':
         ['jupyter-wordcloud=jupyter_wordcloud:main',
