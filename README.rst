@@ -10,7 +10,7 @@ Command::
 
 Output:
 
-.. figure:: test_wordcloud.png
+.. figure:: tests/test_wordcloud.png
    :alt: Demo
    :align: right
 
